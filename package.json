@@ -1,6 +1,6 @@
-// "name": "gub_practice_server",
 {
-  "name": "vercel",
+  
+  "name": "gub_practice_server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
