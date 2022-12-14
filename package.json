@@ -1,11 +1,9 @@
+// "name": "gub_practice_server",
 {
-  "name": "gub_practice_server",
+  "name": "vercel",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "engines": {
-    "node": "14.x"
-  },
   "scripts": {
     "start": "node index.js",
     "start-dev": "nodemon index.js",
